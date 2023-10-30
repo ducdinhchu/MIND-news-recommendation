@@ -14,9 +14,14 @@ In this repository:
 | Fastformer: Additive Attention Can Be All You Need                        | https://arxiv.org/pdf/2108.09084.pdf               | [Fastformer](https://github.com/ducdinhchu/MIND-news-recommendation/blob/master/S_Fastformer.pdf)
 | MIND: A Large-scale Dataset for News Recommendation                       | https://aclanthology.org/2020.acl-main.331.pdf     | [MIND](https://github.com/ducdinhchu/MIND-news-recommendation/blob/master/S_MIND.pdf)
 
-**Metrics**
+**Evaluation Metrics**
 
-**Report and Presentation**
+* [Metrics](https://github.com/ducdinhchu/MIND-news-recommendation/blob/master/metrics.pdf)
+
+**Materials**
+
+* [Report](https://github.com/ducdinhchu/MIND-news-recommendation/blob/master/report.pdf)
+* [Representation](https://github.com/ducdinhchu/MIND-news-recommendation/blob/master/presentation.pptx)
 
 **Results**
 
