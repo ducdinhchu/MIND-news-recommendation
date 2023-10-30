@@ -29,4 +29,4 @@ In this repository:
 |:----:|:----------:|:-------:|:------------------:|:-------:|:------:|:-------:|:-------:|
 |  37  | ducchudinh |    7    |      11/26/22      | 0.6854  | 0.3367 | 0.3670  | 0.4247  |
 
-
+I'd like to express my gratitude for the collaboration from my fellow team members, Cuong Xuan Nguyen and Hiep Minh Do, IT1 05 K64 HUST.
