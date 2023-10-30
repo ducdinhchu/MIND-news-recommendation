@@ -25,4 +25,8 @@ In this repository:
 
 **Results**
 
+| Rank | User       | Entries | Date of Last Entry | AUC     | MRR    | nDCG@5  | nDCG@10 |
+|------|------------|---------|--------------------|---------|--------|---------|---------|
+| 37   | ducdinhchu | 7       | 11/26/22           | 0.6854  | 0.3367 | 0.3670  | 0.4247  |
+
 
