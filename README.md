@@ -9,7 +9,7 @@ In this repository:
 **Models and Dataset**
 
 | Full name                                                                 | Paper                                              | Summary
-| ------------------------------------------------------------------------- | -------------------------------------------------- | -------------------------------------
+| ------------------------------------------------------------------------- |: --------------------------------------------------: | :-------------------------------------:
 | Neural News Recommendation with Multi-Head Self-Attention                 | [NRMS](https://aclanthology.org/D19-1671.pdf)         | [NRMS](https://github.com/ducdinhchu/MIND-news-recommendation/blob/master/S_NRMS.pdf)
 | Fastformer: Additive Attention Can Be All You Need                        | [Fastformer](https://arxiv.org/pdf/2108.09084.pdf) | [Fastformer](https://github.com/ducdinhchu/MIND-news-recommendation/blob/master/S_Fastformer.pdf)
 | MIND: A Large-scale Dataset for News Recommendation                       | [MIND](https://aclanthology.org/2020.acl-main.331.pdf)     | [MIND](https://github.com/ducdinhchu/MIND-news-recommendation/blob/master/S_MIND.pdf)
