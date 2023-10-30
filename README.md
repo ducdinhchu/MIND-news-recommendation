@@ -27,6 +27,6 @@ In this repository:
 
 | Rank | User       | Entries | Date of Last Entry | AUC     | MRR    | nDCG@5  | nDCG@10 |
 |:----:|:----------:|:-------:|:------------------:|:-------:|:------:|:-------:|:-------:|
-|  37  | ducchudinh |    7    |      11/26/22      | 0.6854  | 0.3367 | 0.3670  | 0.4247  |
+|  37  | ducchudinh |    7    |      11/26/22      | 0.6844  | 0.3363 | 0.3670  | 0.4238  |
 
 I'd like to express my gratitude for the collaboration from my fellow team members, Cuong Xuan Nguyen and Hiep Minh Do, IT1 05 K64 HUST.
