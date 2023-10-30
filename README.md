@@ -21,7 +21,7 @@ In this repository:
 **Materials**
 
 * [Report](https://github.com/ducdinhchu/MIND-news-recommendation/blob/master/report.pdf)
-* [Representation](https://github.com/ducdinhchu/MIND-news-recommendation/blob/master/presentation.pptx)
+* [Presentation](https://github.com/ducdinhchu/MIND-news-recommendation/blob/master/presentation.pptx)
 
 **Results**
 
